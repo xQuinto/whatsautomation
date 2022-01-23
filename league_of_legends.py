@@ -31,7 +31,7 @@ def get_tft_info():
 
 #Ook functie voor solo maken
 def get_all_ranked_info():
-    API_KEY = "RGAPI-5f5aea2a-d9cf-4bc7-960a-ec2ea7f49a10"
+    API_KEY = "RGAPI-5dc31456-34ab-4a6d-8a44-87c35547ef13"
 
     summoner_id = get_league_id()
     league_url = f"https://euw1.api.riotgames.com/lol/league/v4/entries/by-summoner/{summoner_id}?api_key="
@@ -42,11 +42,13 @@ def get_all_ranked_info():
 
     message = f"Hi, I don't have any ranked info for you :("
 # zo kan ik ook checken op len(data) == 1 bv etc en zo meer weergeven
+    #een variabele ddie dan de queuetype checkt meegeven
     if len(league_data):
         queue_type = league_data[0]['queueType']
         if queue_type == 'RANKED_FLEX_SR':
             message = get_ranked_flex(league_data, 0)
-            queue_type = league_data[1]['queueType']
+            ###queue_type = league_data[1]['queueType']
+            #Hieronder gaat het mis atm als toevallig tft pairs de eerste(0e) in de lijst van meerdere is
         elif queue_type == 'RANKED_TFT_PAIRS':
             message = get_ranked_tft_pairs(league_data, 0)
 
@@ -56,6 +58,8 @@ def get_all_ranked_info():
 
 # if queuetype = blabla dan doe dit, zeg maar een bool/false/true statement hierboven per queue type
 
+
+# ranked_tft_pairs
 def get_ranked_tft_pairs(league_data, x):
     summoner_name = league_data[x]['summonerName']
     wins = league_data[x]['wins']
@@ -69,6 +73,7 @@ def get_ranked_tft_pairs(league_data, x):
     return message
 
 
+# ranked_flex_sr
 def get_ranked_flex(league_data, x):
     summoner_name = league_data[x]['summonerName']
     wins = league_data[x]['wins']
@@ -85,7 +90,7 @@ def get_ranked_flex(league_data, x):
 
 
 def get_league_puuid():
-    API_KEY = "RGAPI-5f5aea2a-d9cf-4bc7-960a-ec2ea7f49a10"
+    API_KEY = "RGAPI-5dc31456-34ab-4a6d-8a44-87c35547ef13"
 
     summoner_name = input("What is the summoner name you want to look up? ")
 
@@ -98,7 +103,7 @@ def get_league_puuid():
 
 #dit is de encrypted summoner id
 def get_league_id():
-    API_KEY = "RGAPI-5f5aea2a-d9cf-4bc7-960a-ec2ea7f49a10"
+    API_KEY = "RGAPI-5dc31456-34ab-4a6d-8a44-87c35547ef13"
 
     summoner_name = input("What is the summoner name you want to look up? ")
 
