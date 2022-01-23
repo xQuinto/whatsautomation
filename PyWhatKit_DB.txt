@@ -753,3 +753,53 @@ Time: 15:10
 Phone Number: +31682048650
 Message: Hi, I don't have any ranked info for you :(
 --------------------
+Date: 23/1/2022
+Time: 16:4
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, in RANKED_SOLO_5x5 you are GOLD IV.You have 13 wins and 20 losses.Hello SnakeWithoutMana, in RANKED_FLEX_SR you are GOLD III.You have 12 wins and 8 losses.Hello SnakeWithoutMana, in RANKED_TFT_PAIRS you have 5 wins and 104 losses.
+--------------------
+Date: 23/1/2022
+Time: 16:8
+Phone Number: +31682048650
+Message: Hello klootje, in RANKED_TFT_PAIRS you have 0 wins and 6 losses.
+--------------------
+Date: 23/1/2022
+Time: 17:36
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, in RANKED_SOLO_5x5 you are GOLD IV.You have 13 wins and 20 losses.Hello SnakeWithoutMana, in RANKED_FLEX_SR you are GOLD III.You have 12 wins and 8 losses.Hello SnakeWithoutMana, in RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV
+--------------------
+Date: 23/1/2022
+Time: 17:46
+Phone Number: +31682048650
+Message: Hello klootje, in RANKED_TFT_PAIRS you have 0 wins and 6 losses.
+--------------------
+Date: 23/1/2022
+Time: 17:47
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, in RANKED_SOLO_5x5 you are GOLD IV.You have 13 wins and 20 losses.Hello SnakeWithoutMana, in RANKED_FLEX_SR you are GOLD III.You have 12 wins and 8 losses.Hello SnakeWithoutMana, in RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV
+--------------------
+Date: 23/1/2022
+Time: 17:56
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, Hello SnakeWithoutMana, in RANKED_SOLO_5x5 you are GOLD IV.You have 13 wins and 20 losses.Hello SnakeWithoutMana, in RANKED_FLEX_SR you are GOLD III.You have 12 wins and 8 losses.Hello SnakeWithoutMana, in RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV
+--------------------
+Date: 23/1/2022
+Time: 17:57
+Phone Number: +31682048650
+Message: Hello klootje, Hello klootje, in RANKED_TFT_PAIRS you have 0 wins and 6 losses.
+--------------------
+Date: 23/1/2022
+Time: 18:0
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, In RANKED_FLEX_SR you are GOLD III, you have 12 wins and 8 losses.In RANKED_SOLO_5x5 you are GOLD IV, you have 13 wins and 21 losses.In RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV
+--------------------
+Date: 23/1/2022
+Time: 18:3
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, In RANKED_FLEX_SR you are GOLD III, you have 12 wins and 8 losses.In RANKED_SOLO_5x5 you are GOLD IV, you have 13 wins and 21 losses.In RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV
+--------------------
+Date: 23/1/2022
+Time: 18:7
+Phone Number: +31682048650
+Message: Hello SnakeWithoutMana, In RANKED_FLEX_SR you are GOLD III, you have 12 wins and 8 losses.In RANKED_SOLO_5x5 you are GOLD IV, you have 13 wins and 21 losses.In RANKED_TFT_PAIRS you have 5 wins and 104 losses.In RANKED_TFT you are GOLD IV, you have 8 wins and 39 losses.
+--------------------
